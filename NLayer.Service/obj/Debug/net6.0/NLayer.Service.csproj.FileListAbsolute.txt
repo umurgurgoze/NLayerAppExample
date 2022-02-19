@@ -9,3 +9,7 @@ C:\Users\umurg\Desktop\Techcareer\NLayerApp\NLayer.Service\obj\Debug\net6.0\NLay
 C:\Users\umurg\Desktop\Techcareer\NLayerApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.dll
 C:\Users\umurg\Desktop\Techcareer\NLayerApp\NLayer.Service\obj\Debug\net6.0\ref\NLayer.Service.dll
 C:\Users\umurg\Desktop\Techcareer\NLayerApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.pdb
+C:\Users\umurg\Desktop\Techcareer\NLayerApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.AssemblyReference.cache
+C:\Users\umurg\Desktop\Techcareer\NLayerApp\NLayer.Service\bin\Debug\net6.0\NLayer.Core.dll
+C:\Users\umurg\Desktop\Techcareer\NLayerApp\NLayer.Service\bin\Debug\net6.0\NLayer.Core.pdb
+C:\Users\umurg\Desktop\Techcareer\NLayerApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.CopyComplete

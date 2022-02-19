@@ -9,3 +9,4 @@ C:\Users\umurg\Desktop\Techcareer\NLayerApp\NLayer.Caching\obj\Debug\net6.0\NLay
 C:\Users\umurg\Desktop\Techcareer\NLayerApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.dll
 C:\Users\umurg\Desktop\Techcareer\NLayerApp\NLayer.Caching\obj\Debug\net6.0\ref\NLayer.Caching.dll
 C:\Users\umurg\Desktop\Techcareer\NLayerApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.pdb
+C:\Users\umurg\Desktop\Techcareer\NLayerApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.csproj.AssemblyReference.cache
