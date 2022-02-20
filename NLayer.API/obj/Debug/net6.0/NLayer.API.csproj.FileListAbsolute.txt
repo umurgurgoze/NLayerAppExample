@@ -66,3 +66,6 @@ C:\Users\umurg\Desktop\Techcareer\NLayerApp\NLayer.API\bin\Debug\net6.0\AutoMapp
 C:\Users\umurg\Desktop\Techcareer\NLayerApp\NLayer.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\umurg\Desktop\Techcareer\NLayerApp\NLayer.API\bin\Debug\net6.0\NLayer.Service.dll
 C:\Users\umurg\Desktop\Techcareer\NLayerApp\NLayer.API\bin\Debug\net6.0\NLayer.Service.pdb
+C:\Users\umurg\Desktop\Techcareer\NLayerApp\NLayer.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\umurg\Desktop\Techcareer\NLayerApp\NLayer.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\umurg\Desktop\Techcareer\NLayerApp\NLayer.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
